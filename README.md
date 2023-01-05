@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobitkashala" alt="jacobitkashala" /></a> </p>
 
-- 🔭 I’m currently working on **KoumiShop**
+- 🔭 I’m currently working on ****
 
 - 📫 How to reach me **jacobitkashala@gmail.com**
 
@@ -13,6 +13,3 @@
 <p align="left">
 <a href="https://discord.gg/buymeacoffee username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="buymeacoffee username" height="30" width="40" /></a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobitkashala&show_icons=true&locale=en" alt="jacobitkashala" /></p>
