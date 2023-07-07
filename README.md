@@ -9,8 +9,3 @@ I am a fullstack developer, residing in kinshasa (DRC)</h3>
 - 🔭 I’m currently working on ****
 
 - 📫 How to reach me **jacobitkashala@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/buymeacoffee username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="buymeacoffee username" height="30" width="40" />jacobitkashala@gmail.com</a>
-</p>
